@@ -1,0 +1,19 @@
+userID,category,brand,model,rating
+1,Laptop,Dell,XPS 13,5
+1,Laptop,Dell,Inspiron 15,4
+1,Laptop,HP,Spectre x360,3
+1,Laptop,HP,Pavilion 14,2.5
+1,Laptop,Lenovo,ThinkPad X1,4.5
+2,Laptop,Dell,XPS 13,2
+2,Laptop,HP,Spectre x360,4
+2,Laptop,Lenovo,ThinkPad X1,3.5
+3,Laptop,Dell,Inspiron 15,2.5
+3,Laptop,Lenovo,ThinkPad X1,4
+3,Laptop,Asus,ZenBook 14,4.5
+4,Laptop,Dell,XPS 13,5
+4,Laptop,HP,Pavilion 14,3
+4,Laptop,Asus,ZenBook 14,4
+3,Tablet,Apple,iPad Air,4
+4,Tablet,Apple,iPad Pro,4.5
+3,Smartwatch,Samsung,Galaxy Watch 5,4.5
+4,Smartwatch,Samsung,Galaxy Watch 5,4
