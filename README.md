@@ -43,3 +43,4 @@ Scalability: The concept can be extended to handle larger datasets or integrated
 
 OUTPUT:
 
+<img width="793" height="233" alt="Image" src="https://github.com/user-attachments/assets/d892482a-19ba-4e87-aa1b-d43030e8432f" />
